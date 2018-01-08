@@ -1,0 +1,4 @@
+#!/bin/bash
+#テスト用のやつ
+
+echo $PATH
